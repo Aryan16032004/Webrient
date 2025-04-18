@@ -1,0 +1,45 @@
+{
+  "name": "webirent",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@react-email/components": "^0.0.35",
+    "@types/node": "20.6.2",
+    "@types/react": "18.2.22",
+    "@types/react-dom": "18.2.7",
+    "autoprefixer": "10.4.15",
+    "axios": "^1.6.2",
+    "bcryptjs": "^2.4.3",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.5.1",
+    "framer-motion": "^10.16.4",
+    "html2pdf.js": "^0.10.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.2",
+    "next": "13.5.1",
+    "next-auth": "^4.23.1",
+    "nodemailer": "^6.10.0",
+    "postcss": "8.4.30",
+    "razorpay": "^2.9.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.46.1",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.11.0",
+    "resend": "^4.2.0",
+    "tailwindcss": "3.3.3",
+    "typescript": "5.2.2",
+    "zod": "^3.22.2"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.3",
+    "@types/jsonwebtoken": "^9.0.2"
+  }
+}
